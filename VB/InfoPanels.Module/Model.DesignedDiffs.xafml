@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application Title="InfoPanels" Logo="ExpressAppLogo">
+  <NavigationItems>
+    <Items>
+      <Item Id="Default" IsNewNode="True">
+        <Items IsNewNode="True">
+          <Item Id="Person" IsNewNode="True" ImageName="BO_Person" ViewId="Person_ListView" />
+        </Items>
+      </Item>
+    </Items>
+  </NavigationItems>
+  <SchemaModules>
+    <SchemaModule Name="BusinessClassLibraryCustomizationModule" Version="10.2.2.0" IsNewNode="True" />
+    <SchemaModule Name="InfoPanelsModule" Version="1.0.3974.31710" IsNewNode="True" />
+    <SchemaModule Name="SystemModule" Version="10.2.2.0" IsNewNode="True" />
+  </SchemaModules>
+</Application>
