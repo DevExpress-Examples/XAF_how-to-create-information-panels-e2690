@@ -1,3 +1,16 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [InfoPanelViewControllerWeb.cs](./CS/InfoPanels.Module.Web/Controllers/InfoPanelViewControllerWeb.cs) (VB: [InfoPanelViewControllerWeb.vb](./VB/InfoPanels.Module.Web/Controllers/InfoPanelViewControllerWeb.vb))
+* [InfoPanelViewControllerWin.cs](./CS/InfoPanels.Module.Win/Controllers/InfoPanelViewControllerWin.cs) (VB: [InfoPanelViewControllerWin.vb](./VB/InfoPanels.Module.Win/Controllers/InfoPanelViewControllerWin.vb))
+* [DetailViewForm.cs](./CS/InfoPanels.Module.Win/DetailViewForm.cs) (VB: [DetailViewForm.vb](./VB/InfoPanels.Module.Win/DetailViewForm.vb))
+* [MainForm.cs](./CS/InfoPanels.Module.Win/MainForm.cs) (VB: [MainForm.vb](./VB/InfoPanels.Module.Win/MainForm.vb))
+* [Default.aspx.cs](./CS/InfoPanels.Web/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/InfoPanels.Web/Default.aspx.vb))
+* [Global.asax.cs](./CS/InfoPanels.Web/Global.asax.cs) (VB: [Global.asax.vb](./VB/InfoPanels.Web/Global.asax.vb))
+* [MyDefaultVerticalTemplateContent.ascx](./CS/InfoPanels.Web/MyDefaultVerticalTemplateContent.ascx) (VB: [MyDefaultVerticalTemplateContent.ascx](./VB/InfoPanels.Web/MyDefaultVerticalTemplateContent.ascx))
+* [MyDefaultVerticalTemplateContent.ascx.cs](./CS/InfoPanels.Web/MyDefaultVerticalTemplateContent.ascx.cs) (VB: [MyDefaultVerticalTemplateContent.ascx](./VB/InfoPanels.Web/MyDefaultVerticalTemplateContent.ascx))
+* [Program.cs](./CS/InfoPanels.Win/Program.cs)
+<!-- default file list end -->
 # How to: Create Information Panels
 
 
