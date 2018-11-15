@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [InfoPanelViewControllerWeb.cs](./CS/InfoPanels.Module.Web/InfoPanelViewControllerWeb.cs) (VB: [InfoPanelViewControllerWeb.vb](./VB/InfoPanels.Module.Web/InfoPanelViewControllerWeb.vb))
+* [InfoPanelViewControllerWin.cs](./CS/InfoPanels.Module.Win/InfoPanelViewControllerWin.cs) (VB: [InfoPanelViewControllerWin.vb](./VB/InfoPanels.Module.Win/InfoPanelViewControllerWin.vb))
+<!-- default file list end -->
 # How to: Create Information Panels
 
 
