@@ -8,7 +8,7 @@
 * [Default.aspx.cs](./CS/InfoPanels.Web/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/InfoPanels.Web/Default.aspx.vb))
 * [Global.asax.cs](./CS/InfoPanels.Web/Global.asax.cs) (VB: [Global.asax.vb](./VB/InfoPanels.Web/Global.asax.vb))
 * [MyDefaultVerticalTemplateContent.ascx](./CS/InfoPanels.Web/MyDefaultVerticalTemplateContent.ascx) (VB: [MyDefaultVerticalTemplateContent.ascx](./VB/InfoPanels.Web/MyDefaultVerticalTemplateContent.ascx))
-* [MyDefaultVerticalTemplateContent.ascx.cs](./CS/InfoPanels.Web/MyDefaultVerticalTemplateContent.ascx.cs) (VB: [MyDefaultVerticalTemplateContent.ascx](./VB/InfoPanels.Web/MyDefaultVerticalTemplateContent.ascx))
+* [MyDefaultVerticalTemplateContent.ascx.cs](./CS/InfoPanels.Web/MyDefaultVerticalTemplateContent.ascx.cs) (VB: [MyDefaultVerticalTemplateContent.ascx.vb](./VB/InfoPanels.Web/MyDefaultVerticalTemplateContent.ascx.vb))
 * [Program.cs](./CS/InfoPanels.Win/Program.cs)
 <!-- default file list end -->
 # How to: Create Information Panels
