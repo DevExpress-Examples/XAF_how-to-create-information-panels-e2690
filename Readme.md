@@ -3,7 +3,7 @@
 
 * [InfoPanelViewControllerWeb.cs](./CS/InfoPanels.Module.Web/InfoPanelViewControllerWeb.cs) (VB: [InfoPanelViewControllerWeb.vb](./VB/InfoPanels.Module.Web/InfoPanelViewControllerWeb.vb))
 * [InfoPanelViewControllerWin.cs](./CS/InfoPanels.Module.Win/InfoPanelViewControllerWin.cs) (VB: [InfoPanelViewControllerWin.vb](./VB/InfoPanels.Module.Win/InfoPanelViewControllerWin.vb))
-* [Default.aspx](./CS/InfoPanels.Web/Default.aspx) (VB: [Default.aspx.vb](./VB/InfoPanels.Web/Default.aspx.vb))
+* [Default.aspx](./CS/InfoPanels.Web/Default.aspx) (VB: [Default.aspx](./VB/InfoPanels.Web/Default.aspx))
 * [Default.aspx.cs](./CS/InfoPanels.Web/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/InfoPanels.Web/Default.aspx.vb))
 <!-- default file list end -->
 # How to: Create Information Panels
